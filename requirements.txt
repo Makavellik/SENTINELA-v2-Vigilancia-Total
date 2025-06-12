@@ -1,0 +1,8 @@
+psutil
+scapy
+requests
+ipwhois
+dnspython
+beautifulsoup4
+rich
+curl_cffi
